@@ -100,5 +100,5 @@ Barcha sinflardagi ehtimolligi:
 ### Tibbiy Ogohlantirish
 ⚠️ **Ushbu model faqat tadqiqot va ta'lim maqsadlari uchun mo'ljallangan. Haqiqiy tibbiy tashxis qo'yish uchun tibbiyot mutaxassislarining tasdiqi va tekshiruvidan o'tmasdan foydalanilmasligi kerak.**
 
-### Sog'liqni saqlash vazirligi yoki Xaqlaro tibbiy tashkilotlar tomonidan tasdiqlanmagan yoki klinik jihatdan tekshirilmagan
+### Sog'liqni saqlash vazirligi yoki Xaqlaro tibbiy tashkilotlar tomonidan tasdiqlanmagan yoki klinik jihatdan tekshirilmagan!
 
