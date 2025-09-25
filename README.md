@@ -5,8 +5,8 @@
 Ushbu model EKG rasmlarini to'rt toifaga ajratuvchi TensorFlow/Keras asosidagi outputlarni taqdim etadi:
 
 - **Normal** - Sog'lom yurak ritmi
-- **mi (Miyokard infarkti)** - Yurak xurujati
-- **history_mi** - Oldingi yurak xurujati
+- **mi (Miyokard infarkti)** - 
+- **history_mi** - Oldingi yurak xuruji
 - **abnormal** - Boshqa yurak anomaliyalari
 
 ## 🚀 Xususiyatlar
