@@ -96,6 +96,7 @@ Barcha sinflardagi ehtimolligi:
 
 
 ## 🚨 Muhim Eslatmalar
+Modelni olish uchun menga telegramdan yozing!
 
 ### Tibbiy Ogohlantirish
 ⚠️ **Ushbu model faqat tadqiqot va ta'lim maqsadlari uchun mo'ljallangan. Haqiqiy tibbiy tashxis qo'yish uchun tibbiyot mutaxassislarining tasdiqi va tekshiruvidan o'tmasdan foydalanilmasligi kerak.**
